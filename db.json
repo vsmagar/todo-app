@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "userEmail": "john@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "john12",
+      "userEmail": "john@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 2
+    },
+    {
+      "name": "john",
+      "userEmail": "john@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "task": "Vishal",
+      "desc": "React JShhh",
+      "pariority": "High",
+      "category": "persnal",
+      "id": 2
+    },
+    {
+      "task": "Vishal",
+      "desc": "React JS",
+      "pariority": "Med",
+      "category": "study",
+      "id": 3
+    },
+    {
+      "task": "Vishal",
+      "desc": "React JS",
+      "pariority": "Low",
+      "category": "office",
+      "id": 4
+    },
+    {
+      "task": "Vishal1111",
+      "desc": "React JS",
+      "pariority": "Med",
+      "category": "office",
+      "id": 5
+    }
+  ]
+}
